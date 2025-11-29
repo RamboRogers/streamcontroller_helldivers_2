@@ -45,6 +45,6 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3).<br>
 [![Twitter](https://img.shields.io/badge/Twitter-@matthewrogers-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/matthewrogers)
 [![Website](https://img.shields.io/badge/Web-matthewrogers.org-00ADD8?style=for-the-badge&logo=google-chrome)](https://matthewrogers.org)
 
-![RamboRogers](media/ramborogers.png)
+![RamboRogers](https://github.com/RamboRogers/cyberpamnow/raw/master/media/ramborogers.png)
 
 </div>
