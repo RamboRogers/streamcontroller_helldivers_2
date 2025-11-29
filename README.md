@@ -1,6 +1,6 @@
 # HELLDIVERS 2 StreamController Plugin
 Assumes the following:
-* Left Control will open Stratagem menu (Hold/Press)
+* Home key will open Stratagem menu (tap/press to open)
 * Stratagem Directions have been remapped to arrow keys (Up, Down, Left, Right)
 
 ## Contributing

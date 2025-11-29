@@ -1,4 +1,4 @@
-import json
+Pimport json
 import os
 from time import sleep
 
@@ -73,11 +73,12 @@ class StratagemButton(ActionBase):
             return
         self.plugin_base.executing = True
         log.debug(f"Execute Stratagem: {self.stratagem_key}: {self.stratagem}")
-        if not self.plugin_base.hero_mode:
-            log.debug("Not Heroing")
-            self.plugin_base.ui.write(ecodes.EV_KEY, ecodes.KEY_LEFTCTRL, 1)
-            self.plugin_base.ui.syn()
-            sleep(SLEEP_DELAY)
+        self.plugin_base.ui.write(ecodes.EV_KEY, ecodes.KEY_HOME, 1)
+        self.plugin_base.ui.syn()
+        sleep(SLEEP_DELAY)
+        self.plugin_base.ui.write(ecodes.EV_KEY, ecodes.KEY_HOME, 0)
+        self.plugin_base.ui.syn()
+        sleep(SLEEP_DELAY)
         try:
             for key in self.stratagem:
                 self.plugin_base.ui.write(ecodes.EV_KEY, ecodes.ecodes[f"KEY_{key}"], 1)
@@ -87,9 +88,6 @@ class StratagemButton(ActionBase):
                 self.plugin_base.ui.syn()
                 sleep(SLEEP_DELAY)
         finally:
-            self.plugin_base.ui.write(ecodes.EV_KEY, ecodes.KEY_LEFTCTRL, 0)
-            self.plugin_base.ui.syn()
-            sleep(SLEEP_DELAY)
             self.plugin_base.executing = False
 
 
