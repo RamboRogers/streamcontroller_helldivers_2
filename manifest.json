@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "thumbnail": "store/thumbnail.png",
-  "id": "net_jslay_helldivers_2",
+  "id": "org_ramborogers_helldivers_2",
   "name": "HELLDIVERS 2 Stratagems",
   "descriptions": {
     "en_US": "Execute HELLDIVERS 2 stratagems directly from your StreamDeck with a single button press"

@@ -113,7 +113,7 @@ class HellDiversPlugin(PluginBase):
                 self.add_action_holder(ActionHolder(
                     plugin_base=self,
                     action_base=StratagemButton,
-                    action_id=f"net_jslay_helldivers_2::{stratagem}",
+                    action_id=f"org_ramborogers_helldivers_2::{stratagem}",
                     action_name=self.lm.get(f"actions.{stratagem}.name")
                 ))
             except Exception as e:
@@ -122,13 +122,13 @@ class HellDiversPlugin(PluginBase):
         self.add_action_holder(ActionHolder(
             plugin_base=self,
             action_base=StratagemHeroButton,
-            action_id="net_jslay_helldivers_2::StratagemHeroToggle",
+            action_id="org_ramborogers_helldivers_2::StratagemHeroToggle",
             action_name=self.lm.get("actions.StratagemHeroToggle.name")
         ))
 
         self.register(
             plugin_name=self.lm.get("plugin.name"),
-            github_repo="https://github.com/jslay88/streamcontroller_helldivers_2",
+            github_repo="https://github.com/RamboRogers/streamcontroller_helldivers_2",
             plugin_version="1.0.0",
             app_version="1.0.0-alpha"
         )
