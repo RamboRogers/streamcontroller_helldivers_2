@@ -1,4 +1,4 @@
-Pimport json
+import json
 import os
 from time import sleep
 
