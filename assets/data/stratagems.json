@@ -63,5 +63,18 @@
   "EagleNapalmAirstrike": ["UP", "RIGHT", "DOWN", "UP"],
   "EagleSmokeStrike": ["UP", "RIGHT", "UP", "DOWN"],
   "Eagle110MMRocketPods": ["UP", "RIGHT", "UP", "LEFT"],
-  "Eagle500kgBomb": ["UP", "RIGHT", "DOWN", "DOWN", "DOWN"]
+  "Eagle500kgBomb": ["UP", "RIGHT", "DOWN", "DOWN", "DOWN"],
+  "PortableHellbomb": ["DOWN", "RIGHT", "UP", "UP", "UP"],
+  "HoverPack": ["DOWN", "UP", "UP", "DOWN", "LEFT", "RIGHT"],
+  "OneTrueFlag": ["DOWN", "LEFT", "RIGHT", "RIGHT", "UP"],
+  "GuardDogK9": ["DOWN", "UP", "LEFT", "UP", "RIGHT", "LEFT"],
+  "GuardDogDogBreath": ["DOWN", "UP", "LEFT", "UP", "RIGHT", "UP"],
+  "DirectionalShieldBackpack": ["DOWN", "UP", "LEFT", "RIGHT", "UP", "UP"],
+  "CommandoMLS4X": ["DOWN", "LEFT", "UP", "DOWN", "RIGHT"],
+  "WASPLauncher": ["DOWN", "DOWN", "UP", "DOWN", "RIGHT"],
+  "FastReconVehicle": ["LEFT", "DOWN", "RIGHT", "DOWN", "RIGHT", "DOWN", "UP"],
+  "ShieldGeneratorRelay": ["DOWN", "DOWN", "LEFT", "RIGHT", "LEFT", "RIGHT"],
+  "GrenadierBattlement": ["DOWN", "RIGHT", "DOWN", "LEFT", "RIGHT"],
+  "AntiTankMines": ["DOWN", "LEFT", "UP", "UP"],
+  "BallisticShieldBackpack": ["DOWN", "LEFT", "DOWN", "DOWN", "UP", "LEFT"]
 }
