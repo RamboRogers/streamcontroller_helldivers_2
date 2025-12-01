@@ -57,6 +57,7 @@
   "OrbitalGasStrike": ["RIGHT", "RIGHT","DOWN", "RIGHT"],
   "OrbitalEMSStrike": ["RIGHT", "RIGHT", "LEFT", "DOWN"],
   "OrbitalSmokeStrike": ["RIGHT", "RIGHT", "DOWN", "UP"],
+  "OrbitalNapalmBarrage": ["RIGHT", "RIGHT", "DOWN", "LEFT", "RIGHT", "UP"],
   "EagleStrafingRun": ["UP", "RIGHT", "RIGHT"],
   "EagleAirstrike": ["UP", "RIGHT", "DOWN", "RIGHT"],
   "EagleClusterBomb": ["UP", "RIGHT", "DOWN", "DOWN", "RIGHT"],

@@ -17,7 +17,7 @@ Press any stratagem button on your StreamDeck, and the plugin will:
 
 ## Supported Stratagems
 
-The plugin supports **78 stratagems** including all primary weapons, equipment, sentries, orbital support, and stratagem perks. Each stratagem is represented by an icon and can be executed with a single StreamDeck button press.
+The plugin supports **79 stratagems** including all primary weapons, equipment, sentries, orbital support, and stratagem perks. Each stratagem is represented by an icon and can be executed with a single StreamDeck button press.
 
 ### Weapons & Equipment (13 stratagems)
 - Jump Pack, Supply Pack, Ballistic Shield, Guard Dog, Guard Dog Rover, Guard Dog K-9, Guard Dog Dog Breath, Directional Shield Backpack, Ballistic Shield Backpack, Shield Pack, Machine Gun, Anti-Material Rifle, Stalwart
@@ -25,8 +25,8 @@ The plugin supports **78 stratagems** including all primary weapons, equipment, 
 ### Heavy Weapons (11 stratagems)
 - Expendable Anti-Tank, Recoilless Rifle, Flamethrower, Autocannon, Heavy Machine Gun, Railgun, SPEAR Launcher, Grenade Launcher, Laser Cannon, Arc Thrower, Quasar Cannon
 
-### Airstrikes & Artillery (18 stratagems)
-- Airburst Rocket Launcher, Orbital Gatling Barrage, Orbital Airburst Strike, Orbital 120MM HE Barrage, Orbital 380MM HE Barrage, Orbital Walking Barrage, Orbital Laser, Orbital Railcannon Strike, Orbital Precision Strike, Orbital Gas Strike, Orbital EMS Strike, Orbital Smoke Strike, Eagle Strafing Run, Eagle Airstrike, Eagle Cluster Bomb, Eagle Napalm Airstrike, Eagle Smoke Strike, Eagle 110MM Rocket Pods, Eagle 500kg Bomb
+### Airstrikes & Artillery (19 stratagems)
+- Airburst Rocket Launcher, Orbital Gatling Barrage, Orbital Airburst Strike, Orbital 120MM HE Barrage, Orbital 380MM HE Barrage, Orbital Walking Barrage, Orbital Laser, Orbital Railcannon Strike, Orbital Precision Strike, Orbital Gas Strike, Orbital EMS Strike, Orbital Smoke Strike, Orbital Napalm Barrage, Eagle Strafing Run, Eagle Airstrike, Eagle Cluster Bomb, Eagle Napalm Airstrike, Eagle Smoke Strike, Eagle 110MM Rocket Pods, Eagle 500kg Bomb
 
 ### Vehicles & Exosuits (3 stratagems)
 - Patriot Exosuit, Emancipator Exosuit, Fast Recon Vehicle
